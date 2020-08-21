@@ -1,5 +1,5 @@
 # dofus-API
- La-chasse-aux-monstres
+ La-chasse-aux-monstres avec l'API DOFUS
 
 ## Install
 
