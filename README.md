@@ -3,7 +3,7 @@
 
 ## Install
 
-extraire dans votre PC le fichier zip et puis entrer le commande ci desous dans votre terminale
+extraire dans votre PC le fichier " dofusAPI.zip " et puis entrer le commande ci desous dans votre terminale
 ```
 bundle install
 ```
